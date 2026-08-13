@@ -1,4 +1,4 @@
-/* 13botonLedMomentaneo.c - Control de LED con pulsador momentaneo */
+/* 08botonLedMomentaneo.c - Control de LED con pulsador momentaneo */
 /* STC8H8K64U @ 24MHz - Anti-rebote por conteo                     */
 /* 
  * FUNCIONALIDAD:
