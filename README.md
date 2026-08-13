@@ -52,7 +52,7 @@ bash
 sdcc 08botonLedMomentaneo.c
 
 # El resultado genera archivos .ihx, .rel, .lst, etc.
-# El archivo para programar es: 13botonLedMomentaneo.ihx
+# El archivo para programar es: 08botonLedMomentaneo.ihx
 
 Programación
 Utilizar stcgal o la herramienta oficial de STC para cargar el firmware:
