@@ -1,0 +1,36 @@
+# SDCC build artifacts
+*.ihx
+*.hex
+*.rel
+*.rst
+*.sym
+*.lst
+*.map
+*.mem
+*.lk
+*.adb
+*.cdb
+*.omf
+*.elf
+*.bin
+
+# Backup files
+*~
+*.bak
+*.swp
+*.swo
+
+# IDE files
+.vscode/
+.idea/
+*.uvproj
+*.uvopt
+*.uvgui.*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Programming tools
+*.stc
